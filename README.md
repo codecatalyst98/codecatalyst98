@@ -1,32 +1,31 @@
-## Hi there 👋
-# 📊 Ray Khokhar – Senior Data Engineer | Cloud-Native Architect
+# ⚙️ Richard K – Senior DevOps Engineer | AWS | Kubernetes | CI/CD | IaC
 
-Welcome to my GitHub-hosted resume and project showcase. I specialize in building AI-ready, scalable, and secure data platforms across AWS, GCP, and Azure. With over 9 years of experience, I turn complex data into real-time insights for fintech, healthcare, logistics, and SaaS companies.
+Welcome to my GitHub-hosted resume and portfolio. I’m a Senior DevOps Engineer with 9+ years of experience building high-availability, cost-efficient, and secure infrastructure across AWS, Azure, and GCP. My expertise spans Kubernetes, CI/CD automation, observability, and infrastructure-as-code, with a focus on SRE principles and compliance-driven environments.
 
 ---
 
 ## 💼 About Me
 
-- 🔧 Senior Data Engineer with 9+ years of hands-on experience
-- ☁️ Multi-cloud expertise: AWS, GCP, Azure
-- ⚡ Built real-time Kafka/Flink pipelines and AI/ML-integrated platforms
-- 🔐 Focus on compliance (HIPAA, GDPR) and reliability (99.9%+ uptime)
-- 📬 Contact: codecatalyst.d@gmail.com | [LinkedIn](https://linkedin.com/in/ray-khokhar)
+- 🚀 Currently working as a Senior DevOps & SRE Engineer at Render
+- ☁️ Multi-cloud experience with AWS (EKS), Azure (AKS), and GCP (GKE)
+- 🔁 Built CI/CD pipelines for 100+ microservices using GitHub Actions, Jenkins, and Terraform
+- 💸 Reduced AWS cost by up to 40% through Spot Instances, rightsizing, and automation
+- 📬 Reach me at: codeelevate0@gmail.com | [LinkedIn](#)
 
 ---
 
 ## 🧠 Skills Snapshot
 
-| Category             | Technologies |
-|----------------------|--------------|
-| **Cloud Platforms**  | AWS (Glue, S3, Redshift), GCP (BigQuery, Dataflow), Azure (Synapse, Data Factory) |
-| **Data Engineering** | Spark, Kafka, Flink, NiFi, Airflow, dbt, Databricks, Snowflake |
-| **DevOps & IaC**     | Terraform, GitHub Actions, Jenkins, Docker, Kubernetes |
-| **ML & MLOps**       | Model deployment, Feature Engineering, Pipelines on AWS/GCP |
-| **Governance & Quality** | Collibra, Alation, Great Expectations, Monte Carlo |
-| **Languages**        | Python, SQL, Scala, Java, Shell/Bash |
-| **BI & Visualization** | Power BI, Tableau, Looker, Superset |
-| **Architecture**     | Lakehouse, Event-Driven Design, SaaS Integration |
+| Domain                  | Tools & Technologies |
+|-------------------------|----------------------|
+| **Cloud & Platforms**   | AWS (EKS, Lambda, VPC), Azure (AKS), GCP (GKE) |
+| **IaC & Automation**    | Terraform, Terragrunt, Pulumi, Ansible |
+| **CI/CD**               | GitHub Actions, GitLab CI, Jenkins, Azure DevOps |
+| **Kubernetes & Tools**  | Docker, Helm, ArgoCD, FluxCD, Istio |
+| **Observability**       | Prometheus, Grafana, OpenTelemetry, ELK Stack |
+| **Security & Compliance** | Vault, IAM, KMS, HIPAA, FedRAMP, SOC2 |
+| **Scripting**           | Python, Bash, YAML, Go |
+| **Networking & Infra**  | Multi-Account VPCs, Transit Gateway, DNS, Firewalls |
 
 ---
 
