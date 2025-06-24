@@ -1,4 +1,4 @@
-# ⚙️ Richard K – Senior DevOps Engineer | AWS | Kubernetes | CI/CD | IaC
+# ⚙️Senior DevOps Engineer | AWS | Kubernetes | CI/CD | IaC
 
 Welcome to my GitHub-hosted resume and portfolio. I’m a Senior DevOps Engineer with 9+ years of experience building high-availability, cost-efficient, and secure infrastructure across AWS, Azure, and GCP. My expertise spans Kubernetes, CI/CD automation, observability, and infrastructure-as-code, with a focus on SRE principles and compliance-driven environments.
 
